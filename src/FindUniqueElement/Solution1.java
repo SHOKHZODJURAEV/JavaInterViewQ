@@ -15,7 +15,7 @@ public class Solution1 {
             for (int j = 0; j < str.length(); j++) {
 
                 if (str.charAt(i) == str.charAt(j)) {
-                    unique++;
+                    unique++; //
                 }
 
             }
